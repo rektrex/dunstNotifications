@@ -1,3 +1,3 @@
-#!/usr/bin/fish
-set td (date)
+#!/usr/bin/bash
+td=$(date +"%d %B \n %H%M,%A")
 echo $td
