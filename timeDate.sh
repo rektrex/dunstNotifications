@@ -1,3 +1,3 @@
 #!/usr/bin/bash
-td=$(date +"%d %B \n %H%M,%A")
+td=$(date +"%H%M %A %d %B")
 echo $td
